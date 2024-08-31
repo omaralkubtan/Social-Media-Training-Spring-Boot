@@ -23,7 +23,7 @@ This repository contains the backend implementation of a social media platform u
 
 ## Technology Stack
 
-- **Java**: Java 11+
+- **Java**: Java 21+
 - **Spring Boot**: Backend framework
 - **Spring Security**: Security and authentication
 - **JWT**: JSON Web Token for authentication
@@ -35,7 +35,7 @@ This repository contains the backend implementation of a social media platform u
 
 ### Prerequisites
 
-- Java 11 or higher
+- Java 21 or higher
 - Maven 3.6 or higher
 - PostgreSQL
 
