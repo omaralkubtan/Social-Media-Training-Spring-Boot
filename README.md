@@ -11,7 +11,6 @@ This repository contains the backend implementation of a social media platform u
 - [Running the Application](#running-the-application)
 - [Swagger API Documentation](#swagger-api-documentation)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
